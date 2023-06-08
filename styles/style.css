@@ -119,3 +119,126 @@ p {
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+.line {
+    Width: 1115.06px;
+    border: 1.5px solid #181717;
+    margin-top: 107px;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.second h2 {
+    margin-top: 114px;
+    font-style: normal;
+    font: 500 24px 'DM Sans';
+    color: #181717;
+}
+
+.second h3 {
+    margin-top: 32px;
+    font-style: normal;
+    font: 400 22px 'DM Sans';
+    color: #181717;
+}
+
+.second h4 {
+    margin-top: 20px;
+    font-style: normal;
+    font: 400 22px 'DM Sans';
+    color: #606060;
+}
+
+.second p {
+    margin-top: 156px;
+    font-style: normal;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+    text-decoration: underline;
+}
+
+.image {
+    background-image: url(../image/Thumbnail.svg);
+    width: 640px;
+    height: 365px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 114px;
+}
+
+
+.line2 {
+    Width: 1115.06px;
+    border: 1.5px solid #181717;
+    margin-top: 107px;
+}
+
+.flex3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.third h2 {
+    font-style: normal;
+    font: 500 24px 'DM Sans';
+    color: #181717;
+    margin-top: 114px;
+}
+
+.third h3 {
+    font-style: normal;
+    font: 400 22px 'DM Sans';
+    color: #181717;
+    margin-top: 46px;
+}
+
+.third h4 {
+    font-style: normal;
+    font: 400 22px 'DM Sans';
+    color: #606060;
+    margin-top: 18px;
+}
+
+.third p {
+    font-style: normal;
+    font: 500 22px 'Inter';
+    text-decoration-line: underline;
+    color: #181717;
+    margin-top: 143px;
+}
+
+.picture {
+    background-image: url(../image/Thumbnail.svg);
+    width: 640px;
+    height: 365px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 114px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer nav {
+    display: flex;
+}
+
+.year {
+    font-style: normal;
+    font: 500 22px 'DM Sans';
+    color: #2429AF;
+    margin-top: 126px;
+}
+
+nav {
+    font-style: normal;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+    margin-top: 128px;
+}
