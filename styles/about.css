@@ -140,10 +140,10 @@ main {
 .contact div {
     display: flex;
     justify-content: space-between;
-    width: 725px;    
+    width: 850px;    
 }
 
-.contact h2 {
+.contact h2,h3 {
     font: 400 32px 'DM Sans';
     color: #181717;
 }
@@ -155,4 +155,5 @@ main {
     Width: 24px;
     Height: 21px;
     margin-top: 10px;
+    margin-left: 41px;
 }
