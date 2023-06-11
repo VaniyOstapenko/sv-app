@@ -15,6 +15,11 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    width: 1220px;
+    top: 0;
+    background-color: #E5E5E5;
+    z-index: 1;
 }
 
 .img {

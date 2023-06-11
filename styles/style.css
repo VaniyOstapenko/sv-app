@@ -83,10 +83,6 @@ header nav p:not(:last-child) {
     position: relative;
 }
 
-.arrow:hover {
-    margin-top: 2px;
-}
-
 .portfolio {
     margin-top: 83px;
 }
