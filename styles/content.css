@@ -108,13 +108,12 @@ footer nav p:not(:last-child) {
     font: 400 22px 'DM Sans';
     color: #606060;
     margin-top: 52px;
-    margin-left: 52px;
+    margin-left: 47px;
     width: 395px;
 }
 
 .middle div {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -130,8 +129,9 @@ footer nav p:not(:last-child) {
 .end p {
     font: 400 22px 'DM Sans';
     color: #606060;
-    margin-left: 52px;
-    width: 395px;
+    margin-top: 30px;
+    margin-left: 47px;
+    width: 200px;
 }
 
 
@@ -143,7 +143,6 @@ footer nav p:not(:last-child) {
 
 .end div {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
