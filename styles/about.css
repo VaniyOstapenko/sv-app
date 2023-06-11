@@ -18,7 +18,6 @@ header {
 }
 
 .img {
-
     background-image: url(../image/hs..svg);
     width: 64px;
     height: 50px;
@@ -29,15 +28,16 @@ header {
 
 header nav {
     display: flex;
-
-
 }
 
-header nav p {
+header nav p a {
     font: 500 22px 'DM Sans';
     color: #181717;
+    text-decoration: none;
+}
 
-
+header nav p a:hover {
+    text-decoration: underline;
 }
 
 header nav p:not(:last-child) {
@@ -140,10 +140,11 @@ main {
 .contact div {
     display: flex;
     justify-content: space-between;
-    width: 850px;    
+    width: 850px;
 }
 
-.contact h2,h3 {
+.contact h2,
+h3 {
     font: 400 32px 'DM Sans';
     color: #181717;
 }
